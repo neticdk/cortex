@@ -26,7 +26,6 @@ message Chunk {
   }
   Encoding type  = 1;
   bytes data     = 2;
-  uint64 hash   = 3 [(gogoproto.nullable) = true];
 }
 
 message Series {
