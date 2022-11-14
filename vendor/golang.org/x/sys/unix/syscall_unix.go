@@ -423,15 +423,11 @@ func Send(s int, buf []byte, flags int) (err error) {
 }
 
 func Sendto(fd int, p []byte, flags int, to Sockaddr) (err error) {
-	var ptr unsafe.Pointer
-	var salen _Socklen
-	if to != nil {
-		ptr, salen, err = to.sockaddr()
-		if err != nil {
-			return err
-		}
+	ptr, n, err := to.sockaddr()
+	if err != nil {
+		return err
 	}
-	return sendto(fd, p, flags, ptr, salen)
+	return sendto(fd, p, flags, ptr, n)
 }
 
 func SetsockoptByte(fd, level, opt int, value byte) (err error) {
