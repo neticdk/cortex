@@ -241,3 +241,5 @@ replace github.com/ionos-cloud/sdk-go/v6 => github.com/ionos-cloud/sdk-go/v6 v6.
 replace github.com/googleapis/gnostic => github.com/google/gnostic v0.6.9
 
 replace github.com/thanos-io/thanos => github.com/neticdk/thanos v0.30.2
+
+replace github.com/thanos-io/objstore => github.com/neticdk/objstore v0.0.1
