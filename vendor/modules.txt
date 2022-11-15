@@ -775,7 +775,7 @@ github.com/thanos-io/objstore/providers/gcs
 github.com/thanos-io/objstore/providers/s3
 github.com/thanos-io/objstore/providers/swift
 github.com/thanos-io/objstore/tracing
-# github.com/thanos-io/thanos v0.27.0-rc.0.0.20221102162214-50b41561b178
+# github.com/thanos-io/thanos v0.27.0-rc.0.0.20221102162214-50b41561b178 => github.com/neticdk/thanos v0.30.1
 ## explicit; go 1.18
 github.com/thanos-io/thanos/pkg/block
 github.com/thanos-io/thanos/pkg/block/indexheader
@@ -1262,3 +1262,4 @@ sigs.k8s.io/yaml
 # github.com/go-openapi/spec => github.com/go-openapi/spec v0.20.6
 # github.com/ionos-cloud/sdk-go/v6 => github.com/ionos-cloud/sdk-go/v6 v6.0.4
 # github.com/googleapis/gnostic => github.com/google/gnostic v0.6.9
+# github.com/thanos-io/thanos => github.com/neticdk/thanos v0.30.1
