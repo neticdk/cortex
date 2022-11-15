@@ -749,8 +749,8 @@ github.com/nats-io/nkeys v0.1.3/go.mod h1:xpnFELMwJABBLVhffcfd1MZx6VsNRFpEugbxzi
 github.com/nats-io/nuid v1.0.1/go.mod h1:19wcPz3Ph3q0Jbyiqsd0kePYG7A95tJPxeL+1OSON2c=
 github.com/ncw/swift v1.0.53 h1:luHjjTNtekIEvHg5KdAFIBaH7bWfNkefwFnpDffSIks=
 github.com/ncw/swift v1.0.53/go.mod h1:23YIA4yWVnGwv2dQlN4bB7egfYX6YLn0Yo/S6zZO/ZM=
-github.com/neticdk/thanos v0.30.1 h1:ZrO/m5gLf3b+fNkxc0qTuGiFVtsnutCjjg3LTWuUaFg=
-github.com/neticdk/thanos v0.30.1/go.mod h1:VArpbGYLKsvvO3yyNKr1vBNO4D7ONr6/+xegtVKe4lQ=
+github.com/neticdk/thanos v0.30.2 h1:yYlQu2uZq03NFw5zsMtAj2G2JsCZudssqPHHATE6dQw=
+github.com/neticdk/thanos v0.30.2/go.mod h1:M5JgdlUi2/Y/FZc0xq67S5RlwW3gqhCDdv7HjOSs5Wo=
 github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e/go.mod h1:zD1mROLANZcx1PVRCS0qkT7pwLkGfwJo4zjcN/Tysno=
 github.com/nxadm/tail v1.4.8 h1:nPr65rt6Y5JFSKQO7qToXr7pePgD6Gwiw05lkbyAQTE=
 github.com/oklog/oklog v0.3.2/go.mod h1:FCV+B7mhrz4o+ueLpx+KqkyXRGMWOYEvfiXtdGtbWGs=
